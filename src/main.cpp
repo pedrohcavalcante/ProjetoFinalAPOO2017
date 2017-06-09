@@ -6,11 +6,10 @@
  */
 
 //============================================================================
-// Name        : Testes.cpp
-// Author      : Pedro H B Cavalcante
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Name        : main.cpp
+// Author      : Adelino Fernandes & Pedro H B Cavalcante
+// Version     : 0.1
+// Copyright   : OpenSource
 //============================================================================
 
 #include <iostream>
